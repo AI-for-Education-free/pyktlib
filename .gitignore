@@ -2,5 +2,6 @@
 /build
 /dist
 /pyktlib.egg-info
+/.idea
 
 ./build_package.sh
