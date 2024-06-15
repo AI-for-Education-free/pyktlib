@@ -4,4 +4,6 @@
 /pyktlib.egg-info
 /.idea
 
+/example/data
+
 ./build_package.sh
